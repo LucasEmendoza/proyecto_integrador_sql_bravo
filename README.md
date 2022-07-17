@@ -1,6 +1,6 @@
 # Proyecto integrador SQL Bravo
 
-Este repositorio se realiza para dar fin al modulo correspondiente a bases de datos, dando a conocer muchos de los conocimientos adquiridos, donde de forma practica y ejemplificada se realiza una base de datos para un proyecto global que es la construccion de la pagina wed de Codigo 13
+Este repositorio se realiza para dar finilizacion al modulo correspondiente a bases de datos, dando a conocer muchos de los conocimientos adquiridos en este tema durante el trancurso de la carrera, donde de forma practica y ejemplificada se realiza una base de datos para un proyecto global que es la construccion de la pagina wed de Codigo 13
 
 
 
