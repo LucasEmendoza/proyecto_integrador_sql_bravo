@@ -5,7 +5,7 @@ Este repositorio se realiza para dar fin al modulo correspondiente a bases de da
 
 
 
-## Imagen modelo entidad relacion
+## Imagen modelo entidad relaciòn
 
 ![imagen_modelo_entidad_relación](https://user-images.githubusercontent.com/105325885/179423108-23b2b1bd-fabe-4ecf-b285-581df450921e.png)
 
