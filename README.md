@@ -1,11 +1,11 @@
 # Proyecto integrador SQL Bravo
 
-Este repositorio contiene el ultimo trabajo a realizado por nosotros los participantes para dar finalizacion al modulo de Base de Datos y dar a a conocer lo que hemos aprendido en el transcurso del mismo
+Este repositorio se realiza para dar fin al modulo correspondiente a bases de datos, dando a conocer muchos de los conocimientos adquiridos, donde de forma practica y ejemplificada se realiza una base de datos para un proyecto global que es la construccion de la pagina wed de Codigo 13
 
 
 
 
-## Screenshots
+## Imagen modelo entidad relacion
 
 ![imagen_modelo_entidad_relación](https://user-images.githubusercontent.com/105325885/179423108-23b2b1bd-fabe-4ecf-b285-581df450921e.png)
 
